@@ -1,61 +1,46 @@
-👋 Bonjour, je suis [Votre Nom]
+<!-- BANNIÈRE / TITRE -->
+<h1 align="center">👋 Bonjour, je suis [Prénom Nom]</h1>
+<h3 align="center">Développeur Unity XR | AR/VR/MR | Computer Vision & 3D Modeling</h3>
 
-🚀 Unity XR Developer | AR/VR/MR | Computer Vision & 3D Modeling
+<!-- BADGES TECHNOLOGIQUES (visuels et attrayants) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/AR_Foundation-512BD4?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
-🧠 À propos de moi
+<!-- PRÉSENTATION RAPIDE -->
+### 🎯 À propos de moi
+Je transforme des concepts en **expériences immersives** pour l'éducation, la culture et le jeu vidéo. 
+Je réunis Unity, la modélisation 3D et la Computer Vision pour créer des applications AR/VR/MR qui captivent et résolvent des problèmes concrets.
 
-Je conçois des expériences immersives pour l'éducation, la culture et le jeu vidéo. 
-Je réunis Unity, la modélisation 3D et la Computer Vision pour créer des applications qui captivent et résolvent des problèmes concrets.
+<!-- LIENS VERS VOS PLATEFORMES -->
+### 🌐 Me retrouver
+- 🎮 **Portfolio interactif** : [https://votre-nom-utilisateur.github.io](https://votre-nom-utilisateur.github.io)  *(lien vers votre GitHub Pages)*
+- 💼 **LinkedIn** : [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
+- 🎨 **ArtStation** : [artstation.com/votre-profil](https://artstation.com/votre-profil)
+- 📐 **Sketchfab** : [sketchfab.com/votre-profil](https://sketchfab.com/votre-profil)
 
-🌱 Actuellement en veille sur : OpenXR, AR Foundation, WebXR, MediaPipe
+<!-- PROJETS MIS EN AVANT (3 maximum) -->
+### 🚀 Projets phares
 
- 🛠️ Technologies & Outils
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| **[Nom Projet 1]** | Expérience AR éducative sur le système solaire avec tracking de marqueurs | AR Foundation, Blender, C# |
+| **[Nom Projet 2]** | Jeu VR d'exploration culturelle avec interactions basées sur la Computer Vision | Unity XR, MediaPipe, OpenXR |
+| **[Nom Projet 3]** | Musée virtuel immersif en MR pour HoloLens | MRTK, Computer Vision, 3D Modeling |
 
-| Domaine | Compétences |
-|---------|-------------|
-| XR | OpenXR, Meta Quest SDK, AR Foundation, ARKit/ARCore, WebXR |
-| 3D | Blender, Animation, Shader Graph, Optimisation |
-| Vision | OpenCV, MediaPipe, Segmentation, Tracking |
-| Dev | C#, python, Git, Clean Code, |
+<!-- STATISTIQUES GITHUB (optionnel mais pro) -->
+### 📊 Activité GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&show_icons=true&theme=radical" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-utilisateur&layout=compact&theme=radical" alt="Langages" />
+</p>
 
----
-
-📌 Projets phares
-
-🎯 [Nom du Projet 1] - *AR pour l'éducation*
-- Tech : Unity + AR Foundation + Blender
-- Brief : Application AR qui superpose des modèles 3D historiques sur des monuments.
-- 🔗 [Démo](#) | [Code](#) | [Sketchfab](https://sketchfab.com/yalinguenabob)
-
-🕹️ [Nom du Projet 2] - Jeu VR avec hand-tracking
-- Tech : Unity + OpenXR + MediaPipe
-- Brief : Jeu de mime où les gestes du joueur déclenchent des actions.
-- 🔗 [Démo](#) | [Code](#) | [ArtStation](#)
-
-#### 🖼️ [Nom du Projet 3] - *Installation interactive MR*
-- **Tech** : Unity + HoloLens + Computer Vision
-- **Brief** : Installation culturelle où le public interagit avec des données visuelles.
-- 🔗 [Démo](#) | [Code](#)
-
----
-
-🌐 Me retrouver
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/wazaby0039)
-[![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/yalinguenabob)
-
----
-
-📊 Stats GitHub
-
-![Votre stats](https://github-readme-stats.vercel.app/api?username=yalinguenabob&show_icons=true&theme=radical)
-
----
-
-🎮 Projet à voir absolument
-
-![Démo](lien-vers-votre-gif.gif)
-
-N'hésitez pas à explorer mes dépôts et à me contacter pour collaborer !*
+<!-- DERNIERS ARTICLES / POSTS (si vous bloguez) -->
+### ✍️ Derniers articles
+- [Titre article 1](lien) - *Publication sur la réalité mixte dans l'éducation*
+- [Titre article 2](lien) - *Tutoriel : Intégrer OpenCV dans Unity*
 
