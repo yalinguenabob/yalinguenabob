@@ -35,8 +35,8 @@ Je réunis Unity, la modélisation 3D et la Computer Vision pour créer des appl
 <!-- STATISTIQUES GITHUB (optionnel mais pro) -->
 📊 Activité GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&show_icons=true&theme=radical" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-utilisateur&layout=compact&theme=radical" alt="Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yalinguenabob&show_icons=true&theme=radical" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalinguenabob&layout=compact&theme=radical" alt="Langages" />
 </p>
 
 <!-- DERNIERS ARTICLES / POSTS (si vous bloguez) -->
