@@ -23,14 +23,6 @@ Je réunis Unity, la modélisation 3D et la Computer Vision pour créer des appl
 - 🎨 ArtStation : [artstation.com/votre-profil](https://www.artstation.com/wazaby0039)
 - 📐 Sketchfab : [sketchfab.com/votre-profil](https://sketchfab.com/yalinguenabob)
 
-<!-- PROJETS MIS EN AVANT (3 maximum) -->
-🚀 Projets phares
-
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| [Nom Projet 1] | Expérience AR éducative sur le système solaire avec tracking de marqueurs | AR Foundation, Blender, C# |
-| [Nom Projet 2] | Jeu VR d'exploration culturelle avec interactions basées sur la Computer Vision | Unity XR, MediaPipe, OpenXR |
-| [Nom Projet 3] | Musée virtuel immersif en MR pour HoloLens | MRTK, Computer Vision, 3D Modeling |
 
 <!-- STATISTIQUES GITHUB (optionnel mais pro) -->
 📊 Activité GitHub
@@ -40,7 +32,4 @@ Je réunis Unity, la modélisation 3D et la Computer Vision pour créer des appl
 </p>
 
 <!-- DERNIERS ARTICLES / POSTS (si vous bloguez) -->
-✍️ Derniers articles
-- [Titre article 1](lien) - *Publication sur la réalité mixte dans l'éducation*
-- [Titre article 2](lien) - *Tutoriel : Intégrer OpenCV dans Unity*
 
