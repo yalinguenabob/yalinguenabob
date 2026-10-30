@@ -26,7 +26,7 @@
 
 ## 👋 À propos · About
 
-🇫🇷 Développeur XR junior, je programme le gameplay sous **Unity**, je modélise mes assets sous **Blender** et je livre de l’AR testable avec un téléphone ou un QR code. Mon objectif : mettre la XR au service de **l’éducation et de la formation**. Je cherche un stage ou un premier poste en XR.
+Développeur XR junior, je programme le gameplay sous **Unity**, je modélise mes assets sous **Blender** et je livre de l’AR testable avec un téléphone ou un QR code. Mon objectif : mettre la XR au service de **l’éducation et de la formation**. Je cherche un stage ou un premier poste en XR.
 
 🇬🇧 Junior XR developer: I program gameplay in **Unity**, model assets in **Blender**, and ship AR you can test with a phone or a QR code. My goal is to put XR to work for **education and training**. I’m looking for an internship or a first XR role.
 
