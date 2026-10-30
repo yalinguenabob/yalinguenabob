@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7A3CFF&height=200&section=header&text=Ton%20Nom&fontSize=54&fontColor=ECEAFF&fontAlignY=38&desc=Développeur%20XR%20junior%20%C2%B7%20Junior%20XR%20Developer&descSize=20&descAlignY=60" alt="Bannière / Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7A3CFF&height=200&section=header&text=YALINGUENA%20Bobby%20Franck&fontSize=54&fontColor=ECEAFF&fontAlignY=38&desc=Développeur%20XR%20junior%20%C2%B7%20Junior%20XR%20Developer&descSize=20&descAlignY=60" alt="Bannière / Banner" />
 
 <a href="https://github.com/yalinguenabob">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FE3F0&center=true&vCenter=true&width=640&lines=Je+construis+des+exp%C3%A9riences+AR+%2F+VR;I+build+AR+%2F+VR+experiences;Unity+%C2%B7+AR+Foundation+%C2%B7+ARCore;Blender+%C2%B7+Sketchfab+%C2%B7+OpenCV;La+XR+au+service+de+l%27%C3%A9ducation" alt="Texte animé / Typing animation" />
@@ -15,7 +15,7 @@
 
 <br><br>
 
-<a href="https://TON-SITE.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF6B8E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://yalinguenaporfolioxr.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF6B8E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://sketchfab.com/TON-PSEUDO"><img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" alt="Sketchfab"></a>
 <a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/Email-7A3CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
