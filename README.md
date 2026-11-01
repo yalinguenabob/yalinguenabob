@@ -16,7 +16,7 @@
 <br><br>
 
 <a href="https://yalinguenaporfolioxr.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF6B8E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/bobby-franck-yalinguena-1725882b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://sketchfab.com/TON-PSEUDO"><img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" alt="Sketchfab"></a>
 <a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/Email-7A3CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
