@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,python,opencv,git,github,vscode&perline=8" alt="Technologies" />
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,DaVinci_Resolve,python,opencv,git,github,vscode&perline=8" alt="Technologies" />
 
 </div>
 
