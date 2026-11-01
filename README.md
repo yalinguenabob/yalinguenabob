@@ -38,10 +38,10 @@
 
 | Projet | Description | Tech | Liens |
 |---|---|---|---|
-| **WebAR voiture** | 🇫🇷 Modèle Sketchfab placé dans la pièce depuis le navigateur, sans installation<br>🇬🇧 Sketchfab car placed in your room from the browser, no install | `model-viewer` `WebXR` | [Démo / Demo](#) · [Code](#) |
-| **Jeu FPS Unity** | 🇫🇷 Contrôleur première personne, crouch fluide, nouvel Input System<br>🇬🇧 First-person controller, smooth crouch, new Input System | `Unity` `C#` | [Code](#) · [Vidéo / Video](#) |
-| **App AR Android** | 🇫🇷 Détection de plans et placement d’objets 3D sur téléphone<br>🇬🇧 Plane detection and 3D object placement on a phone | `AR Foundation` `ARCore` | [Code](#) · [Vidéo / Video](#) |
-| **OpenCV (en cours)** | 🇫🇷 Premières expériences de vision par ordinateur<br>🇬🇧 First computer vision experiments | `OpenCV` `Python` | [Code](#) |
+| **WebAR voiture** |Modèle Sketchfab placé dans la pièce depuis le navigateur, sans installation<br> Sketchfab car placed in your room from the browser, no install | `model-viewer` `WebXR` | [Démo / Demo](#) · [Code](#) |
+| **Jeu FPS Unity** | Contrôleur première personne, crouch fluide, nouvel Input System<br> First-person controller, smooth crouch, new Input System | `Unity` `C#` | [Code](#) · [Vidéo / Video](#) |
+| **App AR Android** | Détection de plans et placement d’objets 3D sur téléphone<br Plane detection and 3D object placement on a phone | `AR Foundation` `ARCore` | [Code](#) · [Vidéo / Video](#) |
+| **OpenCV (en cours)** | Premières expériences de vision par ordinateur<br> First computer vision experiments | `OpenCV` `Python` | [Code](#) |
 
 ## 📊 GitHub
 
