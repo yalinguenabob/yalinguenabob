@@ -23,6 +23,8 @@
 </div>
 
 ---
+## About
+Digital arts student, passionate about crafting immersive experiences. My goal is to build augmented and virtual reality applications for education, culture, and video games, making learning, heritage, and play more alive and engaging.
 
 ## 🛠️ Stack
 
