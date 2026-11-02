@@ -47,9 +47,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yalinguenabob&show_icons=true&bg_color=12102B&title_color=4FE3F0&text_color=ECEAFF&icon_color=FF6B8E&border_color=37337A" alt="Statistiques GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalinguenabob&layout=compact&bg_color=12102B&title_color=4FE3F0&text_color=ECEAFF&border_color=37337A" alt="Langages les plus utilisés" />
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=yalinguenabob&background=12102B&ring=FF6B8E&fire=FF6B8E&currStreakNum=ECEAFF&sideNums=ECEAFF&currStreakLabel=4FE3F0&sideLabels=A9A5D8&dates=A9A5D8&stroke=37337A&border=37337A" alt="Série de contributions" />
