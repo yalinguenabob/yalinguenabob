@@ -43,7 +43,7 @@ Digital arts student, passionate about crafting immersive experiences. My goal i
 | **WebAR voiture** |Modèle Sketchfab placé dans la pièce depuis le navigateur, sans installation<br> Sketchfab car placed in your room from the browser, no install | `model-viewer` `WebXR` | [Démo / Demo](#) · [Code](#) |
 | **Jeu FPS Unity** | Contrôleur première personne, crouch fluide, nouvel Input System<br> First-person controller, smooth crouch, new Input System | `Unity` `C#` | [Code](#) · [Vidéo / Video](#) |
 | **Arcourse** |ce projet consiste à explorer les différentes fonctionnalités offertes par ARcore : Détection de plans et placement d’objets 3D sur téléphone<br Plane detection and 3D object placement on a phone | `AR Foundation` `ARCore` | [Code](https://github.com/yalinguenabob/ARCourse) · [Vidéo / Video](#) |
-| **Hand On (en cours)** | OpenCV - Computer Vision with Python | `OpenCV` `Python` | [Code](#) |
+| **Hand On (en cours)** | OpenCV - Computer Vision with Python | `OpenCV` `Python` | [Code](https://github.com/yalinguenabob/HandOn) |
 
 ## 📊 GitHub
 
