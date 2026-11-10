@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7A3CFF&height=200&section=header&text=YALINGUENA%20Bobby%20Franck&fontSize=54&fontColor=ECEAFF&fontAlignY=38&desc=XR%20%C2%B7%20Game%20Developer&descSize=20&descAlignY=60" alt="Bannière / Banner" />
 
 <a href="https://github.com/yalinguenabob">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FE3F0&center=true&vCenter=true&width=640&lines=I+build+AR+%2F+VR+experiences;Unity+%C2%B7+AR+Foundation+%C2%B7+ARCore;OpenXR+%C2%B7+Blender;DavinviResolve+%C2%B7+Computer Vision;" alt="Texte animé / Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FE3F0&center=true&vCenter=true&width=640&lines=I+build+AR+%2F+VR+experiences;Unity+%C2%B7+AR+Foundation+%C2%B7+ARCore;OpenXR+%C2%B7+Blender;DavinviResolve+%C2%B7+ComputerVision;" alt="Texte animé / Typing animation" />
 </a>
 
 <br><br>
